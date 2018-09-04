@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-09-04T20:34:54" hostname="Michal-Komputer" time="6.463">
+  <properties/>
+  <testcase name="Test" classname="Test" time="6.463"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[1536093295098	geckodriver	INFO	geckodriver 0.21.0
+1536093295114	geckodriver	INFO	Listening on 127.0.0.1:36764
+1536093295844	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Michal\\AppData\\Local\\Temp\\rust_mozprofile.v4fYWpWIYkhz"
+Unable to read VR Path Registry from C:\Users\Michal\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Michal\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Michal\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Michal\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Michal\AppData\Local\openvr\openvrpaths.vrpath
+1536093298240	Marionette	INFO	Listening on port 54127
+1536093298578	Marionette	WARN	TLS certificate errors will be ignored for this session
+wrz 04, 2018 10:34:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[Parent 3460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+]]></system-err>
+</testsuite>
