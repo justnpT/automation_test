@@ -8,6 +8,7 @@ public class Test {
         System.setProperty("webdriver.gecko.driver", "src\\resources/geckodriver.exe");
         WebDriver driver = new FirefoxDriver();
         driver.get("https://www.google.com");
+        System.out.print("cos");
         driver.quit();
     }
 }
