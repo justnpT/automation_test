@@ -1,3 +1,4 @@
+import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
@@ -10,5 +11,6 @@ public class Test {
         driver.get("https://www.google.com");
         System.out.print("cos");
         driver.quit();
+        Assert.assertTrue(false);
     }
 }

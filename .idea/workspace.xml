@@ -54,14 +54,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gradle" value="3" />
-          <entry key="java" value="169" />
+          <entry key="java" value="195" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="3" />
-          <entry key="JAVA" value="169" />
+          <entry key="JAVA" value="195" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
@@ -92,7 +92,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -476,7 +476,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536094006369" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536102466534" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -552,12 +552,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test_Test - 2018.08.29 at 15h 58m 39s.xml">
-      <configuration name="Test.Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_Test - 2018.08.29 at 15h 59m 01s.xml">
-      <configuration name="Test.Test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Test_Test - 2018.08.29 at 15h 59m 46s.xml">
       <configuration name="Test.Test" configurationId="JUnit" />
     </history-entry>
@@ -580,6 +574,12 @@
       <configuration name="Test.Test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="jinni_automation_[test] - 2018.09.04 at 22h 45m 54s.xml">
+      <configuration name="jinni_automation [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="jinni_automation_[test] - 2018.09.04 at 22h 47m 31s.xml">
+      <configuration name="jinni_automation [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="jinni_automation_[test] - 2018.09.05 at 01h 07m 34s.xml">
       <configuration name="jinni_automation [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
@@ -638,7 +638,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
